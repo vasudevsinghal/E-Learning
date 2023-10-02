@@ -1,0 +1,16 @@
+.card-container{
+    width : 15rem;
+}
+
+@media screen and (max-width: 450px){
+    .card-container{
+        width : 45%;
+        height : 12rem;
+    }
+}
+
+@media screen and (min-width : 600px) and (max-width : 1000px){
+    .card-container{
+        width : 30%;
+    }
+}

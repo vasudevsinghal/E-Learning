@@ -1,0 +1,1282 @@
+[{
+  "_id": {
+    "$oid": "630cd125f96778f8fb2cde35"
+  },
+  "name": "Anuj Grover",
+  "ongoingCourses": [
+    {
+      "_id": {
+        "$oid": "630b6484d59675d9ded32924"
+      },
+      "name": "Digital VLSI and Memory Design",
+      "videos": [
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340612"
+          },
+          "name": "SoC Design Steps - Design Analysis",
+          "url": "https://youtu.be/1kNYgsH40Q0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340613"
+          },
+          "name": "SoC Design Steps - SoC Design Flow",
+          "url": "https://youtu.be/OLJIYZylox0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340614"
+          },
+          "name": "SoC Design Steps - Design Implementation",
+          "url": "https://youtu.be/S7091-SZPFk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340615"
+          },
+          "name": "Library Design - Design Abstraction and Languages",
+          "url": "https://youtu.be/rq15h18pxbk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340616"
+          },
+          "name": "Library Design Flow",
+          "url": "https://youtu.be/A1aWZcz1Krk",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340617"
+          },
+          "name": "Transistor and Model Design",
+          "url": "https://youtu.be/4o7Z_aS-cXQ",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340618"
+          },
+          "name": "Key Factors for Tremendous Growth of Microelectronics",
+          "url": "https://youtu.be/9EqPTLhEWlY",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64ca55d4c853a6340619"
+          },
+          "name": "IC Fabrication - Overview",
+          "url": "https://youtu.be/1CjvgmPJq1I",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cb55d4c853a634061a"
+          },
+          "name": "IC Fabrication - Photolithography challenges",
+          "url": "https://youtu.be/jh6qhtM88KM",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64cb55d4c853a634061b"
+          },
+          "name": "IC Fabrication - Overview of challenges with Copper Interconnects",
+          "url": "https://youtu.be/1VGPTGZ8e_Q",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cb55d4c853a634061c"
+          },
+          "name": "IC Fabrication - Overview of Challenges in Packaging",
+          "url": "https://youtu.be/w2JBCrDmuno",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cb55d4c853a634061d"
+          },
+          "name": "VLSI DEVICES - Band Diagram",
+          "url": "https://youtu.be/SMA5k1yLOKs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cb55d4c853a634061e"
+          },
+          "name": "MOS Capacitor",
+          "url": "https://youtu.be/cXY4b9XCUgM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a634061f"
+          },
+          "name": "Characterization of MOS Capacitance",
+          "url": "https://youtu.be/CMe2mvwtX2M",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340620"
+          },
+          "name": "Operation of MOS transistor",
+          "url": "https://youtu.be/AiH62PY8_-U",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340621"
+          },
+          "name": "Velocity Saturation in MOS transistors",
+          "url": "https://youtu.be/JTafhAtqi6w",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340622"
+          },
+          "name": "Sub-Threshold operation of MOS transistor",
+          "url": "https://youtu.be/49fHN0JaBEU",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340623"
+          },
+          "name": "MOS Transistor Capacitances",
+          "url": "https://youtu.be/vqkD13iBp8U",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340624"
+          },
+          "name": "Interconnects",
+          "url": "https://youtu.be/36WFzgPvj3I",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340625"
+          },
+          "name": "Layout Design ",
+          "url": "https://youtu.be/Q4NRLQqQn34",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cc55d4c853a6340626"
+          },
+          "name": "Layout Design - 2",
+          "url": "https://youtu.be/D59Otum6EqA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cd55d4c853a6340627"
+          },
+          "name": "Layout Design - 3",
+          "url": "https://youtu.be/3Dg814jyk_o",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cd55d4c853a6340628"
+          },
+          "name": "Layout Design - 4",
+          "url": "https://youtu.be/Hyej-EEgy5o",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cd55d4c853a6340629"
+          },
+          "name": "Layout Design - 5",
+          "url": "https://youtu.be/g1jq_Tl89PA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cd55d4c853a634062a"
+          },
+          "name": "Interconnects - Challenges with Copper Wires",
+          "url": "https://youtu.be/kn9vJ1U2M0Y",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cd55d4c853a634062b"
+          },
+          "name": "Interconnects - Elmore Delays",
+          "url": "https://youtu.be/_3zsV5VQEMI",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ce55d4c853a634062c"
+          },
+          "name": "Interconnects - RC MODELS",
+          "url": "https://youtu.be/T3evXVYqVz4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ce55d4c853a634062d"
+          },
+          "name": "Interconnects - Cross-talk",
+          "url": "https://youtu.be/-1cu0NsFpEM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ce55d4c853a634062e"
+          },
+          "name": "Design of an Inverter - Load Line analysis",
+          "url": "https://youtu.be/hM594Hm2zcA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cf55d4c853a634062f"
+          },
+          "name": "Design of an Inverter - DC TRANFER CHARACTERISTICS",
+          "url": "https://youtu.be/L69CwjaRr2g",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cf55d4c853a6340630"
+          },
+          "name": "Design of an Inverter - NOISE MARGIN",
+          "url": "https://youtu.be/WMW0XjpJhfs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64cf55d4c853a6340631"
+          },
+          "name": "Design of an Inverter - DELAY DEFINITIONS",
+          "url": "https://youtu.be/6cFWYI9sBJw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d055d4c853a6340632"
+          },
+          "name": "Design of an Inverter - Delay models",
+          "url": "https://youtu.be/_Gx_rVnCYSY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d155d4c853a6340633"
+          },
+          "name": "Delay Estimation",
+          "url": "https://youtu.be/fDntVpDkcec",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d155d4c853a6340634"
+          },
+          "name": "What is Logical Effort?",
+          "url": "https://youtu.be/wUHaLuQzSxg",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d155d4c853a6340635"
+          },
+          "name": "Logical Effort of Common Gates",
+          "url": "https://youtu.be/GKW7auPWGbA",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d155d4c853a6340636"
+          },
+          "name": "Logical Effort in Multi-stage designs",
+          "url": "https://youtu.be/RioleqvE7IM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d255d4c853a6340637"
+          },
+          "name": "Logical Effort Calculations - Examples",
+          "url": "https://youtu.be/Cdk33854gqQ",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d355d4c853a6340638"
+          },
+          "name": "Logical Effort - Estimate Optimal Stage Ratio",
+          "url": "https://youtu.be/vS6JQgBA_VU",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d355d4c853a6340639"
+          },
+          "name": "Process Variations - an Introduction",
+          "url": "https://youtu.be/LMeHv7zsxsA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d455d4c853a634063a"
+          },
+          "name": "Process Variations - Parametric Variations",
+          "url": "https://youtu.be/TZ3aN2GsTdo",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d455d4c853a634063b"
+          },
+          "name": "Process Variations - Process Corners",
+          "url": "https://youtu.be/EH8zEetiYco",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d455d4c853a634063c"
+          },
+          "name": "Power Consumption - types of power consumption",
+          "url": "https://youtu.be/b2wwYMU-emI",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d555d4c853a634063d"
+          },
+          "name": "Power Consumption - Dynamic Power",
+          "url": "https://youtu.be/aiJuk-YjTmY",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d555d4c853a634063e"
+          },
+          "name": "Power Consumption - estimating Activity Factor",
+          "url": "https://youtu.be/2FF0fRRpP38",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d555d4c853a634063f"
+          },
+          "name": "Power Consumption - Dynamic Voltage and Frequency Scaling (DVFS)",
+          "url": "https://youtu.be/Nve0FZCx7gk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d655d4c853a6340640"
+          },
+          "name": "Power Consumption - Static Power Dissipation",
+          "url": "https://youtu.be/zFqb41NmdEU",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d655d4c853a6340641"
+          },
+          "name": "Power Consumption - Sources of Leakage",
+          "url": "https://youtu.be/BIbkHKBmrrQ",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d655d4c853a6340642"
+          },
+          "name": "Power Consumption - impact of Body and Source Bias",
+          "url": "https://youtu.be/EavOMJjv87s",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d755d4c853a6340643"
+          },
+          "name": "Power Consumption - Control of Leakage",
+          "url": "https://youtu.be/52kZoHsX--A",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d855d4c853a6340644"
+          },
+          "name": "Combinational Logic Design - nuances",
+          "url": "https://youtu.be/whDILV2AOyQ",
+          "watched": true
+        },
+        {
+          "_id": {
+            "$oid": "630b64d855d4c853a6340645"
+          },
+          "name": "Common Combinational Logic Design Styles",
+          "url": "https://youtu.be/8QtpUhabV-A",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64d955d4c853a6340646"
+          },
+          "name": "DCVSL",
+          "url": "https://youtu.be/vtWsWSdbqmI",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64da55d4c853a6340647"
+          },
+          "name": "Pass Transistor Logic (PTL) Design",
+          "url": "https://youtu.be/i7zDhLsk9i4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64da55d4c853a6340648"
+          },
+          "name": "Challenges in Pass Transistor Logic (PTL) Design",
+          "url": "https://youtu.be/Db9HZv9Wc8s",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64da55d4c853a6340649"
+          },
+          "name": "Dynamic Logic Design -1",
+          "url": "https://youtu.be/fz09Zx1PLOg",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64da55d4c853a634064a"
+          },
+          "name": "Dynamic Logic Design -2",
+          "url": "https://youtu.be/WrZ2leirJl8",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64db55d4c853a634064b"
+          },
+          "name": "Challenges in Dynamic Logic Design",
+          "url": "https://youtu.be/1s96L4B1Nrk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64db55d4c853a634064c"
+          },
+          "name": "Cascading Dynamic Gates",
+          "url": "https://youtu.be/ouihedF07RY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64db55d4c853a634064d"
+          },
+          "name": "Cascading Dynamic Gates - 2",
+          "url": "https://youtu.be/w0ZmNIo7A0Y",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64db55d4c853a634064e"
+          },
+          "name": "Sequential Circuits",
+          "url": "https://youtu.be/aa14b6AXSzg",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64dc55d4c853a634064f"
+          },
+          "name": "Sequential Circuits",
+          "url": "https://youtu.be/zow_CFimPxs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64dc55d4c853a6340650"
+          },
+          "name": "Sequential Elements",
+          "url": "https://youtu.be/6tkTisETmDA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64dd55d4c853a6340651"
+          },
+          "name": "Latch as a Sequential Element",
+          "url": "https://youtu.be/Go0s1-8WaUQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64dd55d4c853a6340652"
+          },
+          "name": "Flip Flop as a Sequential Element",
+          "url": "https://youtu.be/lY-7fT2-5ag",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64de55d4c853a6340653"
+          },
+          "name": "C2MOS Flip Flop",
+          "url": "https://youtu.be/JcweW0X0CC0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64de55d4c853a6340654"
+          },
+          "name": "Sequential Elements - Sampling Edge",
+          "url": "https://youtu.be/neIUfuFfWUg",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64df55d4c853a6340655"
+          },
+          "name": "Sequential Elements - Important Timings",
+          "url": "https://youtu.be/uNg8dIZD0zQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64df55d4c853a6340656"
+          },
+          "name": "Sequential Elements - Important Delays",
+          "url": "https://youtu.be/L9GhWShlLPU",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e155d4c853a6340657"
+          },
+          "name": "Sequential Design - Clock Uncertainities",
+          "url": "https://youtu.be/uoVAuUDzOT4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e155d4c853a6340658"
+          },
+          "name": "Sequential Design - Time Period - maximum delays",
+          "url": "https://youtu.be/RRwHlqcV7MI",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e255d4c853a6340659"
+          },
+          "name": "Sequential Design - Hold Time Closure - minimum delays",
+          "url": "https://youtu.be/EczTGsbBEKA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e255d4c853a634065a"
+          },
+          "name": "Sequential Design - Achieving Better Performance with Time Borrowing",
+          "url": "https://youtu.be/PFnj7GYe-cM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e355d4c853a634065b"
+          },
+          "name": "Sequential Design - Adaptive Design Techniques",
+          "url": "https://youtu.be/G4NA-k88Ys4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e555d4c853a634065c"
+          },
+          "name": "Arithmetic Circuits - Introduction",
+          "url": "https://youtu.be/bMuk48cJnPA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e555d4c853a634065d"
+          },
+          "name": "Arithmetic Circuits - Adders",
+          "url": "https://youtu.be/OiDXtgAKLU0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e555d4c853a634065e"
+          },
+          "name": "Arithmetic Circuits - Multipliers",
+          "url": "https://youtu.be/V0mLroNJrjs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e655d4c853a634065f"
+          },
+          "name": "Memory Design - Introduction",
+          "url": "https://youtu.be/Z-sJ1vuRj2E",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e755d4c853a6340660"
+          },
+          "name": "Memory Design - 6-T SRAM Cell",
+          "url": "https://youtu.be/v1yO56zfo9w",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e955d4c853a6340661"
+          },
+          "name": "Memory Design - Layout Design",
+          "url": "https://youtu.be/t1jI2eLBQ8g",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e955d4c853a6340662"
+          },
+          "name": "Circuit Failure - Flip Flop",
+          "url": "https://youtu.be/s2jjWwo4H1o",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e955d4c853a6340663"
+          },
+          "name": "Circuit Failure - Dynamic Gate - 1",
+          "url": "https://youtu.be/gDf557v-Kvo",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e955d4c853a6340664"
+          },
+          "name": "Circuit Failure - pseudo NMOS design",
+          "url": "https://youtu.be/M1H9oCjrjEA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64e955d4c853a6340665"
+          },
+          "name": "Circuit Failure - Dynamic Gate - 2",
+          "url": "https://youtu.be/xZ1SnW7mcg0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64eb55d4c853a6340666"
+          },
+          "name": "Circuit Failure - Latch - 1",
+          "url": "https://youtu.be/m8iuuFFD21w",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64eb55d4c853a6340667"
+          },
+          "name": "Circuit Failure - Latch - 2",
+          "url": "https://youtu.be/ZjMW6AZYgAE",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64eb55d4c853a6340668"
+          },
+          "name": "Circuit Failure - Latch - 3",
+          "url": "https://youtu.be/ILre8aL5UYU",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ec55d4c853a6340669"
+          },
+          "name": "Circuit Failure - Dynamic Gate - 3",
+          "url": "https://youtu.be/FiJovF4vHA8",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "630b64ec55d4c853a634066a"
+          },
+          "name": "Sources of Circuit Failures - Ageing, Latch-up, Soft-Errors, Cross-talk, Noise",
+          "url": "https://youtu.be/kYySz-pWoRc",
+          "watched": false
+        }
+      ],
+      "creator": [
+        {
+          "_id": {
+            "$oid": "630b4dfa8477f0e61cc9063a"
+          },
+          "name": "Anuj Grover",
+          "email": "kartikbagri199@gmail.com"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63c58685128f40f1b8259d55"
+      },
+      "name": "Memory Design and Test",
+      "videos": [
+        {
+          "_id": {
+            "$oid": "63c592c1bb609609dc8bf64f"
+          },
+          "name": "MEMORY TYPES AND OPTIMIZATION",
+          "url": "https://youtu.be/OBYuDazM4Hk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c1bb609609dc8bf650"
+          },
+          "name": "CLASSIFICATION OF MEMORIES",
+          "url": "https://youtu.be/9o2RmJTn6SQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c1bb609609dc8bf651"
+          },
+          "name": "FEATURES COMPARISON IN MEMORY",
+          "url": "https://youtu.be/rEYKLt1pMAI",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c2bb609609dc8bf652"
+          },
+          "name": "MEMORY ARCHITECTURE",
+          "url": "https://youtu.be/p6Aq5wKpd-g",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c2bb609609dc8bf653"
+          },
+          "name": "SIGNAL FLOW IN TIMING DIAGRAM",
+          "url": "https://youtu.be/3MptvF9YkGk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c2bb609609dc8bf654"
+          },
+          "name": "MEMORY DATASHEET",
+          "url": "https://youtu.be/bdapjpFeUX8",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c3bb609609dc8bf655"
+          },
+          "name": "MEMORY DATASHEET-2",
+          "url": "https://youtu.be/lqlTpTIbgp4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c3bb609609dc8bf656"
+          },
+          "name": "OPTIMIZATION TYPES",
+          "url": "https://youtu.be/zV339UClbIM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c3bb609609dc8bf657"
+          },
+          "name": "MEMORY CELL",
+          "url": "https://youtu.be/__bYZeL-0Gc",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c4bb609609dc8bf658"
+          },
+          "name": "6T SINGLE PORT CELL",
+          "url": "https://youtu.be/CtBNzYGvi9s",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c4bb609609dc8bf659"
+          },
+          "name": "BITCELL OPERATION",
+          "url": "https://youtu.be/LkOnj23Q3UE",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c5bb609609dc8bf65a"
+          },
+          "name": "FIGURE OF MERIT",
+          "url": "https://youtu.be/FlmyugticOw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c5bb609609dc8bf65b"
+          },
+          "name": "FIGURES OF MERIT",
+          "url": "https://youtu.be/FlmyugticOw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c6bb609609dc8bf65c"
+          },
+          "name": "WRITE MARGIN, WRITE TIME, LEAKAGE",
+          "url": "https://youtu.be/tvPsWbnyBEA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c7bb609609dc8bf65d"
+          },
+          "name": "CELL OPTIMISATION",
+          "url": "https://youtu.be/oHO2qA8sebs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c7bb609609dc8bf65e"
+          },
+          "name": "CELL STABILITY (BUTTERFLY CURVE)",
+          "url": "https://youtu.be/RU-Coji28dw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c8bb609609dc8bf65f"
+          },
+          "name": "BIT CELL LAYOUT",
+          "url": "https://youtu.be/sj7Z-k2JWu8",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c9bb609609dc8bf660"
+          },
+          "name": "OTHER MEMORY CELL",
+          "url": "https://youtu.be/sy9PrDbeJsg",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592c9bb609609dc8bf661"
+          },
+          "name": "BUMP ESTIMATION -   READ",
+          "url": "https://youtu.be/-cvp7gW8hTw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cabb609609dc8bf662"
+          },
+          "name": "BUMP ESTIMATION -  WRITE",
+          "url": "https://youtu.be/Rywz01X1QE4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cabb609609dc8bf663"
+          },
+          "name": "ROM CELLS",
+          "url": "https://youtu.be/ZGqW4n7ULLw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cbbb609609dc8bf664"
+          },
+          "name": "IO CIRCUIT DESIGN",
+          "url": "https://youtu.be/u-Y_cCf7rkk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cbbb609609dc8bf665"
+          },
+          "name": "BITLINE PRECHARGE ",
+          "url": "https://youtu.be/bnQ-dd1fiCY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cbbb609609dc8bf666"
+          },
+          "name": "COLUMN DECODER",
+          "url": "https://youtu.be/C3Yh0xpJI58",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cbbb609609dc8bf667"
+          },
+          "name": "SENSE AMPLIFIER",
+          "url": "https://youtu.be/XwkWvIgOQc0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592ccbb609609dc8bf668"
+          },
+          "name": "MUX PLACEMENT",
+          "url": "https://youtu.be/AcJLjOxv44w",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cdbb609609dc8bf669"
+          },
+          "name": "WRITE DRIVER",
+          "url": "https://youtu.be/vxbpfM7PaDQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cebb609609dc8bf66a"
+          },
+          "name": "ADDRESS BUS MANAGEMENT",
+          "url": "https://youtu.be/CLWpYGaW0lA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cebb609609dc8bf66b"
+          },
+          "name": "ADDRESS DECODERS",
+          "url": "https://youtu.be/nHTlZclihSs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cfbb609609dc8bf66c"
+          },
+          "name": "DECODER DESIGN",
+          "url": "https://youtu.be/0inc_Yr_OQU",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cfbb609609dc8bf66d"
+          },
+          "name": "PHYSICAL DESIGN",
+          "url": "https://youtu.be/CcFqYYi4CWU",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592cfbb609609dc8bf66e"
+          },
+          "name": "MISMATCH",
+          "url": "https://youtu.be/KeGaDL7BLuQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d0bb609609dc8bf66f"
+          },
+          "name": "PROXIMITY EFFECTS",
+          "url": "https://youtu.be/XGfA-mMk3jo",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d0bb609609dc8bf670"
+          },
+          "name": "RANDOM MISMATCH",
+          "url": "https://youtu.be/wmdOWoYbP98",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d0bb609609dc8bf671"
+          },
+          "name": "IMPACTS",
+          "url": "https://youtu.be/4zbGyJ0elMs",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d0bb609609dc8bf672"
+          },
+          "name": "RANDOM MISMATCHES",
+          "url": "https://youtu.be/QvyyCFOEPAA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d0bb609609dc8bf673"
+          },
+          "name": "BASIS FOR STATISTICS OF VLSI DESIGN",
+          "url": "https://youtu.be/TAOP4xaId7Y",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d1bb609609dc8bf674"
+          },
+          "name": "OTHER DISTRIBUTION",
+          "url": "https://youtu.be/XIEfanCvg4k",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d1bb609609dc8bf675"
+          },
+          "name": "MISMATCH IN SRAM",
+          "url": "https://youtu.be/VjN91ntGYpQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d1bb609609dc8bf676"
+          },
+          "name": "BITCELL YEILD RECOVERY",
+          "url": "https://youtu.be/Ov2l5jEN4h8",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d1bb609609dc8bf677"
+          },
+          "name": "MANUFACTURING DEFECTS",
+          "url": "https://youtu.be/lJtIbONaKXY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d2bb609609dc8bf678"
+          },
+          "name": "BITSLICE OR COLUMN REDUNDANCY",
+          "url": "https://youtu.be/QmvMyR56NXE",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d2bb609609dc8bf679"
+          },
+          "name": "CACHE SUBSYSTEM",
+          "url": "https://youtu.be/XP4O5Clp5l4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d2bb609609dc8bf67a"
+          },
+          "name": "CACHE OPERATION",
+          "url": "https://youtu.be/ZiyX7EU-Mno",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d2bb609609dc8bf67b"
+          },
+          "name": "SPECIFICATION OF CACHE SUBSYSTEM",
+          "url": "https://youtu.be/WT86Y1fPP8M",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d2bb609609dc8bf67c"
+          },
+          "name": "CACHE OPERATION-2",
+          "url": "https://youtu.be/Qo2Yv7ELaEk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d2bb609609dc8bf67d"
+          },
+          "name": "ASSOCIATIVITY",
+          "url": "https://youtu.be/AArRKn8Evkw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d3bb609609dc8bf67e"
+          },
+          "name": "DIRECT MAPPED CACHE",
+          "url": "https://youtu.be/ov3jyGfMOoY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d3bb609609dc8bf67f"
+          },
+          "name": "FULLY ASSOCIATIVE",
+          "url": "https://youtu.be/3rlQVT6MJ0Y",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d3bb609609dc8bf680"
+          },
+          "name": "WHAT HAPPENS ON WRITE",
+          "url": "https://youtu.be/COnbOgzm1HM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d4bb609609dc8bf681"
+          },
+          "name": "DRAM",
+          "url": "https://youtu.be/xCCbA0kWC8w",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d4bb609609dc8bf682"
+          },
+          "name": "CAPACITOR DESIGN - DRAM",
+          "url": "https://youtu.be/6JyCfEH0GJQ",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d5bb609609dc8bf683"
+          },
+          "name": "DRAM ORGANIZATION",
+          "url": "https://youtu.be/N3uvkAlsa7A",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d5bb609609dc8bf684"
+          },
+          "name": "LOGICAL DIAGRAM OF TYPICAL DRAM",
+          "url": "https://youtu.be/OonyTryCHFY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d5bb609609dc8bf685"
+          },
+          "name": "DRAM ACCESS PROTOCOL",
+          "url": "https://youtu.be/YeUscAMF9B4",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d5bb609609dc8bf686"
+          },
+          "name": "DRAM TIMING",
+          "url": "https://youtu.be/6-vUPjakndo",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d5bb609609dc8bf687"
+          },
+          "name": "DRAM EVOLUTION",
+          "url": "https://youtu.be/BfhEwOlGDIk",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d6bb609609dc8bf688"
+          },
+          "name": "DRAM REFERENCE DESIGN",
+          "url": "https://youtu.be/Y9_7E27hRZw",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d6bb609609dc8bf689"
+          },
+          "name": "CHARGE PUMP",
+          "url": "https://youtu.be/ycf1epOzzgM",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d6bb609609dc8bf68a"
+          },
+          "name": "NON VOLATILE MEMORIES",
+          "url": "https://youtu.be/iTGgOPn1Jc0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d6bb609609dc8bf68b"
+          },
+          "name": "SENSING THRESHOLDS",
+          "url": "https://youtu.be/GXgJDULJdAA",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d6bb609609dc8bf68c"
+          },
+          "name": "FLOATING GATE MEMORY CELLS",
+          "url": "https://youtu.be/3P7-HDWuHa0",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d7bb609609dc8bf68d"
+          },
+          "name": "TECTURED POLY TUNNELING",
+          "url": "https://youtu.be/6NeeAKPOXvY",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d7bb609609dc8bf68e"
+          },
+          "name": "FLASH ARCHITECTURE",
+          "url": "https://youtu.be/TfmSuqpYtUc",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d7bb609609dc8bf68f"
+          },
+          "name": "NAND FLASH MEMORY ARCHITECTURE",
+          "url": "https://youtu.be/zrs59Kk-lNo",
+          "watched": false
+        },
+        {
+          "_id": {
+            "$oid": "63c592d7bb609609dc8bf690"
+          },
+          "name": "ARRAY ORGANIZATION",
+          "url": "https://youtu.be/qfgNEuzW2Qo",
+          "watched": false
+        }
+      ],
+      "creator": [
+        {
+          "_id": {
+            "$oid": "630b4dfa8477f0e61cc9063a"
+          },
+          "name": "Anuj Grover",
+          "email": "kartikbagri199@gmail.com"
+        }
+      ]
+    }
+  ]
+}]

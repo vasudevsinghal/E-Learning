@@ -1,0 +1,40 @@
+body > *::-webkit-scrollbar {
+    display: none;
+}
+
+body > * {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.row {
+    margin: auto;
+}
+
+.container {
+    padding: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.scroll-within-y {
+    height: calc(100vh - 56px);
+    overflow-y: scroll;
+}
+
+.required:after {
+    content: "*";
+    color: red;
+}
+
+.hover-overlay:hover {
+    cursor: pointer;
+    background-color: rgb(226, 226, 226);
+    transition: all 0.2s;
+}
+
+.tab-content {
+    padding: 0;
+}
